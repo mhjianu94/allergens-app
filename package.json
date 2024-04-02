@@ -1,0 +1,11 @@
+{
+  "name": "allergens-app",
+  "version": "1.0.0",
+  "description": "An application that helps the user check is there are allergens in the food",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lennox",
+  "license": "ISC"
+}
